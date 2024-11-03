@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Damien Merian - Front-End Developer & Music Producer 🎨🎶
 
-## Getting Started
+Hello there! 👋 I'm **Damien**, a passionate **front-end developer** based in Bordeaux, France 🇫🇷, with a vision to dive deeper into full-stack development. When I'm not coding, I'm likely composing beats on **FL Studio**! 🎧
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌟 About Me
+- 🧑‍💻 **Front-End Enthusiast** | Aspiring **Full-Stack Developer**
+- 🌱 Currently mastering **JavaScript frameworks** (Angular, React, Vue, Next.js, jQuery)
+- 🏠 Based in the beautiful **Bordeaux, France**
+- 🐱 Cat Dad to **Kaly** & **Flocon**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💻 Portfolio
+You can check out my projects on **[my website](https://www.zealest.dev/)** for a showcase of my latest work. Stay tuned for updates!
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📬 Let's Connect
+- 📧 Reach me at **damien.merian@pm.me**
+- 📲 DM me on my socials for a chat about code, music, or collaboration opportunities!
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Open to Collaboration!
+I’m always open to teaming up on **full-stack & front-end projects**. If you're looking to collaborate on something exciting, let's talk!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Thanks for visiting! Let's build something amazing together 🚀
